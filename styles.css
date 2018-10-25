@@ -1,0 +1,42 @@
+﻿		#a1 {
+		background-color:#73b7e2;
+		}
+		.big-font {
+		background-color:#73b7e2;
+		color:black;
+		text-transform:uppercase;
+				}
+		h1 {
+		background-image:url(blu.png);
+		}
+		body {
+		font:20px arial;
+		}
+		.underline {
+			text-decoration: underline;
+		}
+
+		.bold {
+			font-weight: bold;
+		}
+
+		.left {
+			text-align:left;
+		}
+		ul {
+			margin: 5px;
+			padding: 5px;
+			border: 1px solid #666666;
+		}
+		.second-list li {
+			margin: inherit;				
+			padding: inherit;
+			border: inherit;
+		}
+		
+		.center {
+			
+			text-align:center;
+		}
+		
+
