@@ -127,8 +127,12 @@ article div {
 }
 .footer{
 	background-color:gray;
-	color:ffffff;
+	text-align: center;
+	color:white;
 	font-size: 18px;
-	height:120px;
-	
-}
+	height:50px;
+	position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+   
