@@ -1,0 +1,50 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  box-sizing: border-box;
+  min-height: 100%;
+}
+
+.brand {
+	Font-size:32px;
+	Font-weight:normal;
+	text-transform: uppercase;
+	color: #c96625;
+	text-align: justify;
+}
+.flex-container {
+  display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	}
+.flex-container > div {
+ 	
+width: 600px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+  img{
+    margin: 0 auto;
+}
+
+
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+  font-weight: normal;	
+  font-size: 13px;
+  background: linear-gradient(to bottom, #00A3FF, #FFF94C) 0 0 no-repeat;
+}
+
+
+.footer-desc a{
+    text-transform: none;
+    color:#3c2923;
+}
+.footer-desc a:hover{
+    font-weight: bold;
+}
